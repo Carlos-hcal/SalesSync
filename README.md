@@ -118,7 +118,7 @@ Após a execução, o arquivo data/resumo_vendas.xlsx será atualizado automatic
 
 ## Colaboradores
 
-<a href="[https://github.com/carlos-hcal](https://github.com/Carlos-hcal/SalesSync)">
+<a href="[https://github.com/carlos-hcal](https://github.com/Carlos-hcal/)">
   <img src="https://contrib.rocks/image?repo=carlos-hcal/youtube-video-summarizer" />
 </a>
 
