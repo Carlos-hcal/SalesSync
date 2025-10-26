@@ -118,8 +118,8 @@ Após a execução, o arquivo data/resumo_vendas.xlsx será atualizado automatic
 
 ## Colaboradores
 
-<a href="https://github.com/carlos-hcal/SalesSync/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=carlos-hcal/SalesSync" />
+<a href="[https://github.com/carlos-hcal](https://github.com/Carlos-hcal/SalesSync)">
+  <img src="https://contrib.rocks/image?repo=carlos-hcal/youtube-video-summarizer" />
 </a>
 
 ## Licença
